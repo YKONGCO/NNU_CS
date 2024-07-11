@@ -1,0 +1,7 @@
+﻿  MV.cpp
+  Matrix.cpp
+  正在生成代码...
+E:\homework\1\MV2\Matrix.cpp(23): warning C4172: 返回局部变量或临时变量的地址: r
+E:\homework\1\MV2\MV.cpp(22): warning C4172: 返回局部变量或临时变量的地址: r
+E:\homework\1\MV2\MV.cpp(39): warning C4172: 返回局部变量或临时变量的地址: r
+  MV2.vcxproj -> E:\homework\1\MV2\x64\Debug\MV2.exe
